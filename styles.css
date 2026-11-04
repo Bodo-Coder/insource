@@ -290,7 +290,7 @@ figure {
 }
 
 .method-formula--detail .method-formula__item:not(.method-formula__item--active) > span {
-  color: rgba(0, 0, 0, 0.7);
+  color: rgba(0, 0, 0, 0.6);
 }
 
 .method-formula__item > span {

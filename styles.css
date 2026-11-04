@@ -119,6 +119,16 @@ figure {
   white-space: nowrap;
 }
 
+.trademark {
+  display: inline-block;
+  margin-left: 0.07em;
+  font-size: 0.34em;
+  font-weight: 800;
+  letter-spacing: 0;
+  line-height: 1;
+  vertical-align: super;
+}
+
 .section-intro h2,
 .approach-overview h2,
 .pilot-intro h2,

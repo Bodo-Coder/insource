@@ -122,11 +122,16 @@ figure {
 .trademark {
   display: inline-block;
   margin-left: 0.07em;
-  font-size: 0.34em;
+  font-size: 0.48em;
   font-weight: 800;
   letter-spacing: 0;
   line-height: 1;
   vertical-align: super;
+}
+
+.brand-term {
+  color: var(--navy);
+  font-weight: 800;
 }
 
 .section-intro h2,

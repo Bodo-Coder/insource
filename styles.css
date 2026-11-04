@@ -138,6 +138,11 @@ figure {
   font-size: 0.72em;
 }
 
+.approach-overview h2 .trademark {
+  position: relative;
+  top: 0.25em;
+}
+
 .section-intro h2,
 .approach-overview h2,
 .pilot-intro h2,
@@ -244,10 +249,7 @@ figure {
 }
 
 .approach-overview__copy {
-  display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: clamp(1.5rem, 5vw, 5.5rem);
-  max-width: 76rem;
+  max-width: 38rem;
   color: var(--soft-text);
   font-size: clamp(1rem, 1.28vw, 1.14rem);
   font-weight: 500;
@@ -257,6 +259,10 @@ figure {
 
 .approach-overview__copy p {
   margin: 0;
+}
+
+.approach-overview__copy p + p {
+  margin-top: 1.6em;
 }
 
 .method-formula {
@@ -2014,11 +2020,6 @@ summary:focus-visible {
   .section-intro--people {
     grid-template-columns: 1fr;
     gap: 1.5rem;
-  }
-
-  .approach-overview__copy {
-    grid-template-columns: 1fr;
-    gap: 1.25rem;
   }
 
   .section-intro h2 {

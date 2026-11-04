@@ -289,6 +289,10 @@ figure {
   color: rgba(0, 127, 134, 0.5);
 }
 
+.method-formula--detail .method-formula__item:not(.method-formula__item--active) > span {
+  color: rgba(0, 0, 0, 0.7);
+}
+
 .method-formula__item > span {
   color: var(--navy);
   font-family: var(--display-font);

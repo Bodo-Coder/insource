@@ -559,7 +559,7 @@ summary:focus-visible {
 
 .main-nav a {
   color: rgba(255, 255, 255, 0.84);
-  font-size: 1.17rem;
+  font-size: 0.78rem;
   font-weight: 800;
   letter-spacing: 0.015em;
   text-decoration: none;
@@ -1543,7 +1543,7 @@ summary:focus-visible {
   border: 1px solid var(--coral);
   border-radius: 999px;
   color: var(--coral);
-  font-size: 0.78rem;
+  font-size: 1.17rem;
   font-weight: 800;
   letter-spacing: 0.04em;
 }

@@ -134,6 +134,10 @@ figure {
   font-weight: 800;
 }
 
+.brand-term .trademark {
+  font-size: 0.72em;
+}
+
 .section-intro h2,
 .approach-overview h2,
 .pilot-intro h2,

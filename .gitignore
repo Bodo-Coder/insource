@@ -1,0 +1,8 @@
+.DS_Store
+
+# Lokale Arbeits- und Entwurfsdateien bleiben außerhalb des öffentlichen Repositories.
+InSource Umsetzungsbriefing*.docx
+alternative*.html
+alternative*.css
+nunito-preview.html
+Logo Insource neu/2.png
